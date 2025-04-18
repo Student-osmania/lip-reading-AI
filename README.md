@@ -94,8 +94,6 @@ The project extracts the region of interest (ROI) around the speaker's mouth, pr
 | LipNet     | GRID    | 95.0%    | 4.8%                   |
 | Transformer| LRS2    | 84.3%    | 7.9%                   |
 
-Confusion matrix and word-level accuracy plots are available in the `results/` folder.
-
 ---
 
 ## 📌 Installation
