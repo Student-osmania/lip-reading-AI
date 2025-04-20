@@ -65,10 +65,6 @@ The project extracts the region of interest (ROI) around the speaker's mouth, pr
   Assael et al., 2016  
   [https://arxiv.org/abs/1611.01599](https://arxiv.org/abs/1611.01599)
 
-- **Watch, Listen, Attend and Spell**  
-  Afouras et al., 2018  
-  [https://arxiv.org/abs/1804.03619](https://arxiv.org/abs/1804.03619)
-
 - **Deep Lip Reading: A Comparison of Models and Datasets**  
   Wand et al., 2016  
   [https://arxiv.org/abs/1601.08188](https://arxiv.org/abs/1601.08188)
